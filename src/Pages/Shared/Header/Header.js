@@ -7,7 +7,7 @@ const Header = () => {
       <div class="navbar bg-[FFFFFF]">
         <div class="navbar-start">
           <Link to={"/"} class="btn btn-ghost normal-case text-xl">
-            Priyo Pathshala
+            প্রিয় পাঠশালা
           </Link>
         </div>
 
