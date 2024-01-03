@@ -1,0 +1,12 @@
+
+  [
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bluespacetech.priyopathshala",
+        "sha256_cert_fingerprints":
+          ["4D:E1:A1:F1:7E:EC:DE:9C:2B:DF:39:B2:96:4F:2E:A7:23:F3:52:CB:BE:B2:21:ED:86:8F:18:28:5C:BF:3E:BD"]
+      }
+    }
+  ]
